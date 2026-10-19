@@ -1,0 +1,3 @@
+# For hosts that install with pip (e.g. Streamlit Community Cloud).
+# "." installs this project, which provides the jobdash package from src/.
+.
